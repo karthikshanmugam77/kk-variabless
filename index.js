@@ -47,6 +47,6 @@ console.log(b.toLowerCase()); // transforms into toLowerCase
 var f =  "    hello   "
 console.log(f.trim());// trims the space in the strings
                       //output : hello
-console.log(a.substr(2,2))
+
 
 
